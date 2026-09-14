@@ -1,0 +1,3 @@
+Q2: What field could data science be applied to? Give and Example.
+Answer: Data science can be applied to healthacre. For example, hospitals can analyze patient data to predict disease risks and imporve treatment decisions.
+
